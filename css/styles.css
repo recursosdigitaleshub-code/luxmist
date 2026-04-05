@@ -263,7 +263,7 @@ h2.section__title::after {
   position: relative;
   z-index: 2;
   max-width: 600px;
-  padding: 8rem 1.5rem 4rem;
+  padding: 10rem 1.5rem 4rem;
 }
 
 .hero__badge {
@@ -331,7 +331,7 @@ h2.section__title::after {
   }
 
   .hero__content {
-    padding: 8rem 0 4rem;
+    padding: 10rem 0 4rem;
     flex: 0 0 55%;
   }
 
@@ -458,12 +458,12 @@ h2.section__title::after {
 }
 
 .revenue__card {
-  max-width: 700px;
+  max-width: 900px;
   margin: 0 auto 2rem;
   background: var(--color-bg);
   border: 1px solid rgba(201, 168, 76, 0.3);
   border-radius: 8px;
-  padding: 2rem;
+  padding: 2.5rem 2rem;
   text-align: center;
   box-shadow: var(--shadow-gold);
 }
@@ -938,15 +938,10 @@ h2.section__title::after {
   display: block;
   font-family: var(--font-data);
   font-weight: 700;
-  font-size: clamp(1.4rem, 3vw, 1.8rem);
+  font-size: clamp(1.3rem, 2.5vw, 1.6rem);
   color: var(--color-gold);
   line-height: 1;
-  margin-bottom: 0.4rem;
-}
-
-.revenue__stat-item--highlight .revenue__stat-number,
-.revenue__stat-item--annual .revenue__stat-number {
-  font-size: clamp(1.6rem, 3.5vw, 2.1rem);
+  margin-bottom: 0.5rem;
 }
 
 .revenue__stat-label {
