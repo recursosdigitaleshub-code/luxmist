@@ -458,12 +458,12 @@ h2.section__title::after {
 }
 
 .revenue__card {
-  max-width: 500px;
+  max-width: 700px;
   margin: 0 auto 2rem;
   background: var(--color-bg);
   border: 1px solid rgba(201, 168, 76, 0.3);
   border-radius: 8px;
-  padding: 3rem;
+  padding: 2rem;
   text-align: center;
   box-shadow: var(--shadow-gold);
 }
@@ -912,13 +912,13 @@ h2.section__title::after {
 .revenue__stats {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 1.5rem;
+  gap: 1rem;
   margin-bottom: 2rem;
 }
 
 .revenue__stat-item {
   text-align: center;
-  padding: 1.5rem 1rem;
+  padding: 1.2rem 0.75rem;
   background: rgba(201,168,76,0.05);
   border: 1px solid rgba(201,168,76,0.15);
   border-radius: 8px;
@@ -938,7 +938,7 @@ h2.section__title::after {
   display: block;
   font-family: var(--font-data);
   font-weight: 700;
-  font-size: clamp(1.8rem, 4vw, 2.5rem);
+  font-size: clamp(1.4rem, 3vw, 1.8rem);
   color: var(--color-gold);
   line-height: 1;
   margin-bottom: 0.4rem;
@@ -946,12 +946,12 @@ h2.section__title::after {
 
 .revenue__stat-item--highlight .revenue__stat-number,
 .revenue__stat-item--annual .revenue__stat-number {
-  font-size: clamp(2.2rem, 5vw, 3rem);
+  font-size: clamp(1.6rem, 3.5vw, 2.1rem);
 }
 
 .revenue__stat-label {
   font-family: var(--font-body);
-  font-size: 0.8rem;
+  font-size: 0.7rem;
   color: var(--color-platinum);
   text-transform: uppercase;
   letter-spacing: 1px;
