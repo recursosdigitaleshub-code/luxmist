@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="#C9A84C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M32 4L40 24H60L44 36L50 56L32 44L14 56L20 36L4 24H24Z"/>
+  <!-- Bruma/fragancia -->
+  <line x1="28" y1="26" x2="28" y2="20" opacity="0.4"/>
+  <line x1="32" y1="24" x2="32" y2="16" opacity="0.5"/>
+  <line x1="36" y1="26" x2="36" y2="20" opacity="0.4"/>
+</svg>

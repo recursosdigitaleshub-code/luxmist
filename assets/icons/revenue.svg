@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" stroke="#C9A84C" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Grafico ascendente -->
+  <polyline points="8,48 20,36 32,40 44,24 56,12"/>
+  <circle cx="56" cy="12" r="3"/>
+  <!-- Monedas -->
+  <ellipse cx="16" cy="54" rx="8" ry="3"/>
+  <ellipse cx="16" cy="51" rx="8" ry="3"/>
+  <ellipse cx="16" cy="48" rx="8" ry="3"/>
+</svg>
